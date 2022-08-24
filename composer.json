@@ -1,0 +1,18 @@
+{
+    "name": "dev/checkout-system",
+    "description": "Supermarket checkout calculator",
+    "require": {
+      "php": ">=7.2.0",
+      "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+      "psr-4": {
+        "Checkout_System\\": "src/"
+      }
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "Tests\\": "tests/"
+      }
+    }
+}
