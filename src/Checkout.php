@@ -7,6 +7,9 @@ use Checkout_System\Product;
 
 namespace Checkout_System;
 
+/**
+ * Class responsible checkout process.
+ */
 class Checkout extends Database
 {
     /**
