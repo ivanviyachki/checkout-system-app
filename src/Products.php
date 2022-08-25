@@ -7,7 +7,7 @@ use Checkout_System\Database;
 namespace Checkout_System;
 
 /**
- * Class resp.
+ * Class responsible for products.
  */
 class Products extends Database
 {
