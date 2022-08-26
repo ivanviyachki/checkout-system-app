@@ -9,7 +9,7 @@ use Checkout_System\Checkout;
 namespace Checkout_System;
 
 /**
- * Class responsible orders.
+ * Class responsible for routers.
  */
 class Router 
 {
